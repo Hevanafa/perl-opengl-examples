@@ -3,6 +3,9 @@
 ## File list
 
 - `hello.pl` - open window & input key check
+- `font.pl` - example on how to draw string
+- `mouse.pl` - example on how to receive mouse inputs & how to display text on screen
+- `load_png.pl` - example on how to load a PNG file with Libpng, output the width & height of an image
 
 ## Preparation
 
