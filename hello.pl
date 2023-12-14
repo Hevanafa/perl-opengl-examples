@@ -11,6 +11,8 @@ $| = 1;
 sub display_callback {
 	OpenGL::glClear(GL_COLOR_BUFFER_BIT);
 	OpenGL::glColor3f(1, 1, 1);
+
+	# your drawing code here
 	
 	OpenGL::glEnd;
 	OpenGL::glFlush;
