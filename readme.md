@@ -4,6 +4,10 @@
 
 - `hello.pl` - open window & input key check
 
+## Preparation
+
+`OpenGL` and `Image::PNG::Libpng` are required.
+
 ## References
 
 Perl OpenGL API reference
@@ -21,3 +25,7 @@ https://www.opengl.org/resources/libraries/glut/spec3/spec3.html
 OpenGL for Win32
 
 https://bribes.org/perl/wopengl.html
+
+Perl LibPNG reference
+
+https://metacpan.org/dist/Image-PNG-Libpng/view/lib/Image/PNG/Libpng.pod
